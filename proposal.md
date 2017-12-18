@@ -1,4 +1,4 @@
-# Adaptive Algorithms for Online boosting
+# GreedyBoost: Boosting Algorithms in the Online Setting
 
 
 We study online boosting - the task of converting any weak online learner into a strong online learner. Boosting can be viewed as trying to find a linear combination of weak hypotheses to minimize the total loss of the training examples. We experiment with several online boosting algorithms such as Online Adaboost [1], Smoothboost, OSBoost, OCPBoost, EXPBoost and analyze their performance.
